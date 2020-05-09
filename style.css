@@ -1,0 +1,20 @@
+body {
+    background-color: black;
+    text-align: center;
+}
+
+h1 {
+    color: white;
+}
+
+.slider img {
+    height: 600px;
+    width: 960px;
+    display: none;
+    margin: 5% auto 2% auto;
+}
+
+.slider img.active {
+    display: block;
+    border: 2px solid white;
+}
