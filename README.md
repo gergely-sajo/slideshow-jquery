@@ -1,4 +1,4 @@
-### Slideshow
+# Slideshow
 
 ## Purpose
 My first project. With this simple application images can be viewed. One image can be seen at a time, but users can switch between images. The switch is automated with the slideshow.
